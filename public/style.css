@@ -1,0 +1,51 @@
+.user{
+    color: rgb(64, 1, 105);
+    font-style: italic;
+}
+
+.posts{
+    background-color: rgb(134, 220, 220);
+    text-align: center;
+    margin: 10px;
+    padding: 5px,10px;
+    display: wrap;
+}
+
+h1{
+    color: maroon;
+}
+a{
+    text-decoration: none;
+    color: rgb(61, 5, 96);
+}
+a:hover{
+    text-decoration: underline;
+}
+.center,.quara{
+    text-align: center;
+    text-wrap: wrap;
+}
+.enter{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.edit{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.delbtn{
+    margin-left: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.delete,.delet{
+    margin-bottom: 10px;
+}
